@@ -1,0 +1,28 @@
+# Python cache y compilados
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Imágenes temporales de captura biométrica
+temp_captura.jpg
+temp_acceso.jpg
+temp_registro.jpg
+
+# Archivo legacy (reemplazado por captura_biometrica.py)
+cara.py
